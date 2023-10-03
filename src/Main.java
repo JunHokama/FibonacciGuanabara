@@ -5,7 +5,7 @@ public class Main {
 
         int[] array = new int[15];
 
-        // Lembrar que o valor do 'próximo' número da sequência de Fibonacci é a soma dos primeiros elementos.
+        // Lembrar que o valor do 'próximo' número da sequência de Fibonacci é a soma dos dois elementos anteriores.
 
         for(int i = 0; i<array.length;i++){
 
